@@ -1,0 +1,7 @@
+c:\users\michael stone\documents\visual studio 2010\Projects\MicrochipPWMCalculator\MicrochipPWMCalculator\bin\Release\MicrochipPWMCalculator.exe
+c:\users\michael stone\documents\visual studio 2010\Projects\MicrochipPWMCalculator\MicrochipPWMCalculator\bin\Release\MicrochipPWMCalculator.pdb
+c:\users\michael stone\documents\visual studio 2010\Projects\MicrochipPWMCalculator\MicrochipPWMCalculator\obj\x86\Release\MicrochipPWMCalculator.frmMain.resources
+c:\users\michael stone\documents\visual studio 2010\Projects\MicrochipPWMCalculator\MicrochipPWMCalculator\obj\x86\Release\MicrochipPWMCalculator.Properties.Resources.resources
+c:\users\michael stone\documents\visual studio 2010\Projects\MicrochipPWMCalculator\MicrochipPWMCalculator\obj\x86\Release\MicrochipPWMCalculator.csproj.GenerateResource.Cache
+c:\users\michael stone\documents\visual studio 2010\Projects\MicrochipPWMCalculator\MicrochipPWMCalculator\obj\x86\Release\MicrochipPWMCalculator.exe
+c:\users\michael stone\documents\visual studio 2010\Projects\MicrochipPWMCalculator\MicrochipPWMCalculator\obj\x86\Release\MicrochipPWMCalculator.pdb
